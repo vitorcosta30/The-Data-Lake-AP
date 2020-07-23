@@ -1,0 +1,1 @@
+Response.Write("<script language='javascript'>window.alert('Your Message');window.location='usr.php';</script>");
